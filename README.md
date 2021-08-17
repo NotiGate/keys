@@ -6,7 +6,7 @@ Système de générateur &amp; vérificateur de clefs
 ```bash
 npm i ascii-art@2.8.0
 npm i better-sqlite3@7.4.1
-npm i figet@1.5.0
+npm i figet
 npm i mongodb@3.6.9
 npm i mongoose@5.12.13
 npm i ms@2.1.3
