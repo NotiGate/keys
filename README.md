@@ -1,6 +1,8 @@
 # Keys
 Système de générateur &amp; vérificateur de clefs
 
+gestion.js Non disponible, attente de mise à jour pour l'intégration de la base de donnée.
+
 ## Installation
 
 ```bash
@@ -27,6 +29,9 @@ node checker.js
 ```
 
 Continuez le code checker.js avec votre code pour pouvoir laissez votre code qu'à ceux qui ont une clef.
+
+## Contribution
+Si vous trouvez un bug, merci de le signaler, c'est une première version, des bugs peuvent être présents.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
