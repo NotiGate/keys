@@ -3,8 +3,6 @@ Système de générateur &amp; vérificateur de clefs
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 npm i ascii-art@2.8.0
 npm i better-sqlite3@7.4.1
