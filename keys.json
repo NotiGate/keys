@@ -1,0 +1,27 @@
+{
+	"mdp1": {
+		"mdp": "Hidden"
+	},
+	"mdp2": {
+		"mdp": "Hidden"
+	},
+	"mdp3": {
+		"mdp": "Hidden"
+	},
+	"B96F8BMHQJMAKE1N3AWPV9IAOX57ACCD": {
+		"key": "8VHkhXJyx8r4qa1fLo7gicTcgagwrWRc",
+		"firstname": "DAVID",
+		"lastname": "HIDDEN",
+		"number_use": 3,
+		"max_use": "2",
+		"active": false
+	},
+	"dkHS30IeXgC7eaZYSPfLv3XudDyIuOGT": {
+		"key": "dkHS30IeXgC7eaZYSPfLv3XudDyIuOGT",
+		"firstname": "GLAF",
+		"lastname": "DISCORD",
+		"number_use": 2,
+		"max_use": "2",
+		"active": true
+	}
+}
